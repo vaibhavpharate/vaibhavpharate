@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vaibhav Pharate
 - 👀 I’m interested in Data Analytics, Data Science, Mathematics, Logical Analysis
 - 🌱 I’m currently learning Data Science and Analytics (Concepts and Implementation)
-- 💞️ I’m looking to collaborate on Laravel Frameworks and Data Science and Analytics
+- 💞️ I’m looking to collaborate on Laravel, Django Frameworks and Data Science and Analytics
 - 📫 How to reach me vaibhavpharate999@gmail.com
 
 <!---
